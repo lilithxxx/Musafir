@@ -1,2 +1,2 @@
-# lilithxxx.io.Musafir
+# Musafir
 Web app for Rajasthan Hackhathon
